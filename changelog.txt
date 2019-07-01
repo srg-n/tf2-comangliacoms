@@ -1,0 +1,3 @@
+r_eyes 1 // adds emotionless eyes to character models
+Added "goodgpu" addon for high-end GPUs
+Added filesystem commands to autoexec for better load times.
